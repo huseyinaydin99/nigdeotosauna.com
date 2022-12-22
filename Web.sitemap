@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+		<siteMapNode url="Default.aspx" title="Oto Yıkakma"  description="Oto Yıkuama">
+			<siteMapNode url="foto.aspx" title="Foto Galeri"  description="Fotoğraf Galerisi" />
+			<siteMapNode url="ilet.aspx" title="İletişim"  description="İletişim Sayfası" />
+			<siteMapNode url="yrm.aspx" title="Yorumlar"  description="Yorumlar Sayfası" />
+			<siteMapNode url="hak.aspx" title="Hakkımızda"  description="Hakkımızda Sayfası" />
+			<siteMapNode url="Nedir.aspx" title="Buharlı Oto Yıkama Nedir?"  description="Buharlı Oto Yıkama" />
+			<siteMapNode url="Video.aspx" title="Buharlı Oto Yıkama Video"  description="Buharlı Oto Yıkama Video" />
+			<siteMapNode url="Sorular.aspx" title="Sıkça Sorulan Sorular"  description="Sıkça Sorulan Sorular" />
+			<siteMapNode url="Mobil.aspx" title="Mobil Oto Yıkama"  description="Mobil Oto Yıkama" />
+			<siteMapNode url="Sistem.aspx" title="Mobil Oto Yıkama Sistemi"  description="Mobil Oto Yıkama Sistemi" />
+		</siteMapNode>
+</siteMap>
+
